@@ -18,7 +18,6 @@ const Navbar = () => {
           Yoom
         </p>
       </Link>
-
       <div className="flex-between gap-5">
         {/* Clerk - user Management */}
         <MobileNav />
